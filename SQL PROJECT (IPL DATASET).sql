@@ -1,3 +1,6 @@
+-- SQL Project
+-- IPL Dataset
+
 create database ipl_analysis;
 use ipl_analysis;
 select * from batting_summary;
